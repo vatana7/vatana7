@@ -2,7 +2,7 @@
 
 ### I am a React Developer.
 
-<a href="https://app.daily.dev/vatana7"><img src="https://api.daily.dev/devcards/c20b2b3ff79a4c4cb9433fd2b4062b83.png?r=5uh" width="200" alt="Vatana's Dev Card"/></a>
+<a href="https://app.daily.dev/vatana7"><img src="https://api.daily.dev/devcards/c20b2b3ff79a4c4cb9433fd2b4062b83.png?r=5uh" width="270" alt="Vatana's Dev Card"/></a>
 
 <!--
 **vatana7/vatana7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
