@@ -2,6 +2,8 @@
 
 ### I am a React Developer.
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="300" alt="Chris Bongers's Dev Card"/></a>
+
 <!--
 **vatana7/vatana7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
