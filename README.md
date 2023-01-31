@@ -2,7 +2,7 @@
 
 ### a frontend engineer and writing enthusiast
 
-⤷ As a fellow developer I love to write frontend application/website that give user a great experience while they're browsing on the internet.
+⤷ I write frontend application. My most main JS framework is ReactJS. I write tech articles in my free time. I also love to do wall climbing and is into fitness. 
 
 I'm striving to improve my skill even though it's taking one step at a time. Nice to meet you!
 
