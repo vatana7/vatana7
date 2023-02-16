@@ -2,13 +2,13 @@
 
 ### a frontend engineer and writing enthusiast
 
-⤷ I write frontend application. My most main JS framework is ReactJS. I write tech articles in my free time. I also love to do wall climbing and is into fitness. 
+⤷ I love to write frontend web application. My main Javascript framework is React and I also code with Typescript as well. I write tech articles in my free time. I also love to do wall climbing and is into fitness. 
 
 I'm striving to improve my skill even though it's taking one step at a time. Nice to meet you!
 
 ⚐ Based in Cambodia
 
-ϟ Currently working for Prudential PLC
+ϟ Currently is self-employed
 
 ϟ Recently selected as top performer in university's internship.
 
