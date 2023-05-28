@@ -8,7 +8,7 @@ I'm striving to improve my skill even though it's taking one step at a time. Nic
 
 ⚐ Based in Cambodia
 
-ϟ Currently is self-employed
+ϟ Currently is employed
 
 ϟ Recently selected as top performer in university's internship.
 
