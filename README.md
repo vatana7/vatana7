@@ -1,6 +1,6 @@
 # Vatana
 
-### a frontend engineer and writing enthusiast
+### a software engineer and writing enthusiast
 
 ⤷ I love to write frontend web application. My main Javascript framework is React and I also code with Typescript as well. I write tech articles in my free time. I also love to do wall climbing and I am also into fitness. 
 
