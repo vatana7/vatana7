@@ -8,8 +8,6 @@ I'm striving to improve my skill even though it's taking one step at a time. Nic
 
 ⚐ Based in Cambodia
 
-ϟ Currently is employed
-
 ϟ Recently selected as top performer in university's internship.
 
 [![An image of @vatana712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vatana712)](https://holopin.io/@vatana712)
