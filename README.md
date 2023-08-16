@@ -2,7 +2,7 @@
 
 ### a software engineer and writing enthusiast
 
-⤷ I love to write web application. My main Javascript framework is React and I also code with Typescript as well. I'ved work with Spring framework and some ASP.NET too. I write tech articles in my free time. I also love to do wall climbing and I am also into fitness. 
+⤷ I write application to solve problem. I write tech articles in my free time. I also love to do wall climbing and I am also into fitness. 
 
 I'm striving to improve my skill even though it's taking one step at a time. Nice to meet you!
 
