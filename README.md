@@ -4,7 +4,7 @@
 
 ⤷ I write application to solve problem. I write tech articles in my free time. I also love to do bouldering and I am also into fitness. 
 
-I'm striving to improve my skill even though it's taking one step at a time. Nice to meet you!
+I'm striving to improve my skill even though it's taking one step at a time.
 
 ⚐ Based in Cambodia
 
