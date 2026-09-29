@@ -2,9 +2,9 @@
 
 ### a software engineer and writing enthusiast
 
-⤷ I just like dead simple thing
+⤷ I just like dead simple thing.
 
-⚐ Based in Cambodia
+⚐ Based in Cambodia.
 
 ϟ Currently work for @monflo, netherland.
 
